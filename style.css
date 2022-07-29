@@ -60,13 +60,13 @@ a {
     opacity: 1;
 }
 
-.container h2.title {
+.container h1.title {
     color: #fff;
     font-size: 18px;
     transition: all 0.3s ease-in-out;
 }
 
-.container h2.title:hover, .attribution a:hover, footer a:hover{
+.container h1.title:hover, .attribution a:hover, footer a:hover{
     color: hsl(178, 100%, 50%)!important;
 }
 
