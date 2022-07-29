@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Check it Online (Click!)](https://your-live-site-url.com)
+- Live Site URL: [Check it Online (Click!)](https://alinematt.github.io/NFT-preview-card-component)
 
 ## My process
   
